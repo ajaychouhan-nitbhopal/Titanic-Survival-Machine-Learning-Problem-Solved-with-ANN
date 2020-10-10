@@ -1,4 +1,5 @@
 # Titanic-Survival-Machine-Learning-Problem-Solved-with-ANN-
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fajaychouhan-nitbhopal%2FTitanic-Survival-Machine-Learning-Problem-Solved-with-ANN)
 
 This is the code for "Titanic: Machine Learning from Disaster" on Titanic dataset (offered by Kaggle.com) by Ajay Chouhan.
 
